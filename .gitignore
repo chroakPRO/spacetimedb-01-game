@@ -1,0 +1,24 @@
+# === Ignore Unity-generated folders inside client-unity ===
+client-unity/Library/
+client-unity/Temp/
+client-unity/Obj/
+client-unity/Logs/
+client-unity/UserSettings/
+client-unity/MemoryCaptures/
+client-unity/Build/
+client-unity/Builds/
+
+# IDE and build files (optional but useful)
+client-unity/*.csproj
+client-unity/*.sln
+client-unity/*.user
+client-unity/.vs/
+client-unity/.vscode/
+client-unity/.idea/
+
+# SERVER
+server/Obj/
+server/Bin/
+# OS-specific
+**/.DS_Store
+**/Thumbs.db
